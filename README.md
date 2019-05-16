@@ -3,4 +3,4 @@ First repository
 
 Hi all!
 
-I'm here because I love build Android Apps.
+I'm here because I love to build Android Apps.
